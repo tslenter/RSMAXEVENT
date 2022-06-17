@@ -33,9 +33,9 @@ PayPal:
 To improve the code and functions we like to have you help. Send your idea or code to: info@remotesyslog.com or create a pull request. We will review it and add it to this project.
 
 ## 5. License
-"Remote Syslog Network Connector" is a free application what can be used to control network devices via SSH.
+"Remote Syslog EVENT for IBM Maximo" is a free application what can be used to create tickets within IBM Maximo.
 
-Copyright (C) 2020 Tom Slenter
+Copyright (C) 2022 Tom Slenter
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License.
 
