@@ -4,7 +4,7 @@
 Remote Syslog EVENT is python connector for IBM Maximo to create tickets.
 
 ## 2. Usage
-Change the variables within the message.py file to the variables need bij the organation.
+Change the variables within the message.py file to the variables needed by the organation.
 
 Test the file as:
 ```
